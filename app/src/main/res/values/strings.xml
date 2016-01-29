@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="title_activity_second">Second</string>
+
+
+
+        <string name="other" translatable="true"> other text </string>
+        <string name="hello" translatable="true"> Hello </string>
+
+    </resources>

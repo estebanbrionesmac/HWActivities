@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true"> Lenguas</string>
+    <string name="other" translatable="true"> Otro Texto </string>
+    <string name="hello" translatable="true"> Hola !!! </string>
+</resources>
